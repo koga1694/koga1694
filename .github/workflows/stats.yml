@@ -38,7 +38,7 @@ jobs:
 
           const workspace = process.env.WORKSPACE;
 
-          const stats = await fetchStats('koga1694', true, true);
+          const stats = await fetchStats('koga1694', true, []);
           const statsCard = renderStatsCard(stats, {
             show_icons: true,
             hide_border: true,
