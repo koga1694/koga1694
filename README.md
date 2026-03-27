@@ -26,15 +26,6 @@ from data analysis and model training to deployment and cloud infrastructure.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koga1694&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koga1694&layout=compact&theme=default&hide_border=true" height="160" />
-</p>
-
----
-
 ## 💼 What I Do
 
 - 📊 Data analysis & feature engineering
