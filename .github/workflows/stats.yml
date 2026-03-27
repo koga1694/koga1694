@@ -30,10 +30,10 @@ jobs:
           WORKSPACE: ${{ github.workspace }}
         run: |
           cat > /tmp/generate.mjs << 'EOF'
-          import { fetchStats } from '/tmp/grs/src/fetchers/stats-fetcher.js';
-          import { renderStatsCard } from '/tmp/grs/src/cards/stats-card.js';
-          import { fetchTopLanguages } from '/tmp/grs/src/fetchers/top-languages-fetcher.js';
-          import { renderTopLanguages } from '/tmp/grs/src/cards/top-languages-card.js';
+          import { fetchStats } from '/tmp/grs/src/fetchers/stats.js';
+          import { renderStatsCard } from '/tmp/grs/src/cards/stats.js';
+          import { fetchTopLanguages } from '/tmp/grs/src/fetchers/top-languages.js';
+          import { renderTopLanguages } from '/tmp/grs/src/cards/top-languages.js';
           import { writeFileSync } from 'fs';
 
           const workspace = process.env.WORKSPACE;
