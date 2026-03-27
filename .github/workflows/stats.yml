@@ -51,6 +51,7 @@ jobs:
           const langsCard = renderTopLanguages(langs, {
             layout: 'compact',
             hide_border: true,
+            hide: ['Jupyter Notebook'],
           });
           writeFileSync(`${workspace}/top-langs.svg`, langsCard);
 

@@ -5,7 +5,7 @@ from data analysis and model training to deployment and cloud infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,7 +26,7 @@ from data analysis and model training to deployment and cloud infrastructure.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="./github-stats.svg" height="160" />
@@ -35,10 +35,10 @@ from data analysis and model training to deployment and cloud infrastructure.
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-- 📊 Data analysis & feature engineering
-- 🧠 Model training & optimization
-- 🚀 Model serving & inference infrastructure (KServe, Kubeflow)
-- 🤖 AI agent development
-- ☁️ Cloud infrastructure management (AWS EKS, Karpenter)
+- Data analysis & feature engineering
+- Model training & optimization
+- Model serving & inference infrastructure (KServe, Kubeflow)
+- AI agent development
+- Cloud infrastructure management (AWS EKS, Karpenter)
