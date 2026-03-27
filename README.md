@@ -26,6 +26,15 @@ from data analysis and model training to deployment and cloud infrastructure.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="./github-stats.svg" height="160" />
+  <img src="./top-langs.svg" height="160" />
+</p>
+
+---
+
 ## 💼 What I Do
 
 - 📊 Data analysis & feature engineering
