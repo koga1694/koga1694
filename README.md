@@ -1,7 +1,6 @@
 # Hi, I'm Gibo 👋
 
-ML/AI Engineer focused on end-to-end machine learning pipelines —
-from data analysis and model training to deployment and cloud infrastructure.
+ML/AI Engineer focused on end-to-end machine learning pipelines
 
 ---
 
