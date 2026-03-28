@@ -38,6 +38,6 @@ ML/AI Engineer focused on end-to-end machine learning pipelines
 
 - Data analysis & feature engineering
 - Model training & optimization
-- Model serving & inference infrastructure (KServe, Kubeflow)
+- Model serving & inference infrastructure
 - AI agent development
-- Cloud infrastructure management (AWS EKS, Karpenter)
+- Cloud infrastructure management
