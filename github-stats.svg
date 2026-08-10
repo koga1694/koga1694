@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">koga1694's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 1508, Total PRs: 5, Total Issues: 1, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 1512, Total PRs: 5, Total Issues: 1, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 209.6905770882535;
+        stroke-dashoffset: 209.6497997468457;
       }
     }
   
